@@ -41,6 +41,10 @@ Format: 
 Media Bias Chart from https://adfontesmedia.com/ (requires license)
 Any other attachments that might be helpful.
 
+== Recommended Engine ==
+Gemini 2.5 Pro
+Gemini 2.5 Flash (Untested)
+
 --------------
 == Updates ==
 (Aug 21, 2025)
